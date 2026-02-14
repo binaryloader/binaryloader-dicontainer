@@ -15,7 +15,7 @@ Lightweight dependency injection container for iOS, distributed as a CocoaPods p
 ```ruby
 source 'https://github.com/binaryloader/cocoapods-specs.git'
 
-pod 'BinaryloaderDIContainer'
+pod 'BinaryLoaderDIContainer'
 ```
 
 ## Related Repositories
