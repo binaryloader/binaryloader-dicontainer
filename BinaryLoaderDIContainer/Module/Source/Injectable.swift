@@ -2,7 +2,7 @@
 //  Injectable.swift
 //  DIContainer
 //
-//  Created by binaryloader on 2020/10/14.
+//  Created by BinaryLoader on 10/14/20.
 //
 
 @propertyWrapper

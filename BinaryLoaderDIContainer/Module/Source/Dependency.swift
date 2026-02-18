@@ -2,7 +2,7 @@
 //  Dependency.swift
 //  DIContainer
 //
-//  Created by binaryloader on 2020/10/12.
+//  Created by BinaryLoader on 10/12/20.
 //
 
 public protocol Dependency {

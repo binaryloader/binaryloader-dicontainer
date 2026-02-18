@@ -2,7 +2,7 @@
 //  Resolvable.swift
 //  DIContainer
 //
-//  Created by binaryloader on 2020/12/18.
+//  Created by BinaryLoader on 12/18/20.
 //
 
 protocol Resolvable {
