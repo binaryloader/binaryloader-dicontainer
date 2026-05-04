@@ -1,14 +1,16 @@
+English | [한국어](docs/i18n/ko/README.md) | [日本語](docs/i18n/ja/README.md)
+
 # binaryloader-dicontainer
 
 Lightweight dependency injection container for iOS, distributed as a CocoaPods pod.
 
 ## Components
 
-- **Container**: Singleton managing dependency registration and resolution
-- **Dependency**: Protocol for injectable types
-- **Injectable**: Property wrapper for automatic dependency resolution
-- **Resolvable**: Protocol for type resolvers
-- **Resolver**: Generic resolver implementation
+- `Container` - Singleton managing dependency registration and resolution
+- `Dependency` - Protocol for injectable types
+- `Injectable` - Property wrapper for automatic dependency resolution
+- `Resolvable` - Protocol for type resolvers
+- `Resolver` - Generic resolver implementation
 
 ## Installation
 
